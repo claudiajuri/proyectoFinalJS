@@ -1,0 +1,41 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Musculosa",
+        "precio": 3500,
+        "foto": "img/musculosa.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Remera",
+        "precio": 5000,
+        "foto": "img/remera.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Leggins",
+        "precio": 8000,
+        "foto": "img/leggins.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Calza",
+        "precio": 10000,
+        "foto": "img/calzas.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Zapatillas",
+        "precio": 15000,
+        "foto": "img/zapatillas.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Combo!! Bolso y Gorra",
+        "precio": 3500,
+        "foto": "img/bolso y gorra.jpg"
+      }
+    ]
+  }
+
